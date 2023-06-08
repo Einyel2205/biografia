@@ -5,5 +5,12 @@ Este proyecto aùn no se sabe para que serà jasjajsja
 * git
 * github
 * Vs code
-* 
 
+## Lenguajes
+* html
+* css
+* Javascript
+
+## Elaborado por:
+
+* Angel Stiven Velez Castaño
