@@ -1,4 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body img{
     border: 20%;
     border-radius: 50%;
+}
+
+body p  {
+    color: aquamarine;
+
 }
